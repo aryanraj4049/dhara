@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dhara/static/css/main.2b59c36e.css",
+    "main.js": "/dhara/static/js/main.ee345322.js",
+    "static/media/wom.png": "/dhara/static/media/wom.8fe18099a656eb595cfd.png",
+    "static/media/myImage.png": "/dhara/static/media/myImage.15cded2658f960bd5a83.png",
+    "static/media/cpp.png": "/dhara/static/media/cpp.666af1b3598c92045b63.png",
+    "static/media/dislocation.png": "/dhara/static/media/dislocation.33849ef48d28315f3b21.png",
+    "static/media/matlab.jpg": "/dhara/static/media/matlab.06ff427d743af0de984e.jpg",
+    "static/media/aeromod.png": "/dhara/static/media/aeromod.ec69655aa3b496ffc773.png",
+    "static/media/ipcv.jpg": "/dhara/static/media/ipcv.2d2f5218083d500497a7.jpg",
+    "static/media/tata.png": "/dhara/static/media/tata.f3c3fa401750958f9b12.png",
+    "static/media/algo101x.png": "/dhara/static/media/algo101x.9801cd44960d1df5271e.png",
+    "static/media/cad.jpg": "/dhara/static/media/cad.26b3082828f8e18fcaa6.jpg",
+    "static/media/react.png": "/dhara/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/sql.png": "/dhara/static/media/sql.64b3eb63f995c0da35b3.png",
+    "static/media/javascript.png": "/dhara/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/dhara/index.html",
+    "main.2b59c36e.css.map": "/dhara/static/css/main.2b59c36e.css.map",
+    "main.ee345322.js.map": "/dhara/static/js/main.ee345322.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b59c36e.css",
+    "static/js/main.ee345322.js"
+  ]
+}
